@@ -1,0 +1,14 @@
+.search-box {
+    height: 25px;
+    border-radius: 5px;
+    border: 2px solid rgb(182, 182, 182);
+    outline: none;
+    font-family: sans-serif;
+    padding: 5px 10px;
+    font-size: 1rem;
+    width: 30%;
+}
+
+.search-box:focus {
+    border: 2px solid rgb(132, 132, 255);
+}
